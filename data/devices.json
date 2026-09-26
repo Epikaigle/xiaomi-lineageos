@@ -1,11 +1,30 @@
 {
-  "generated_at": "2026-09-26T16:27:16Z",
+  "generated_at": "2026-09-26T21:13:05Z",
   "sources": {
     "wiki": "https://github.com/LineageOS/lineage_wiki",
     "hudson": "https://github.com/LineageOS/hudson",
     "downloads": "https://download.lineageos.org"
   },
   "devices": [
+    {
+      "codename": "dipper",
+      "name": "Mi 8",
+      "aliases": [],
+      "brands": [
+        "xiaomi"
+      ],
+      "status": "active",
+      "lineage_version": "22.2",
+      "android_version": "15",
+      "last_build": "2026-09-26T09:54:12Z",
+      "build_type": "nightly",
+      "build_cadence": "W",
+      "models": [],
+      "release": "2018-07",
+      "image": "https://wiki.lineageos.org/images/devices/small/dipper.png",
+      "wiki_url": "https://wiki.lineageos.org/devices/dipper/",
+      "download_url": "https://download.lineageos.org/devices/dipper"
+    },
     {
       "codename": "vermeer",
       "name": "POCO F6 Pro / Redmi K70",
@@ -1310,25 +1329,6 @@
       "image": "https://wiki.lineageos.org/images/devices/small/davinci.png",
       "wiki_url": "https://wiki.lineageos.org/devices/davinci/",
       "download_url": "https://download.lineageos.org/devices/davinci"
-    },
-    {
-      "codename": "dipper",
-      "name": "Mi 8",
-      "aliases": [],
-      "brands": [
-        "xiaomi"
-      ],
-      "status": "active",
-      "lineage_version": "22.2",
-      "android_version": "15",
-      "last_build": "2026-09-19T10:29:17Z",
-      "build_type": "nightly",
-      "build_cadence": "W",
-      "models": [],
-      "release": "2018-07",
-      "image": "https://wiki.lineageos.org/images/devices/small/dipper.png",
-      "wiki_url": "https://wiki.lineageos.org/devices/dipper/",
-      "download_url": "https://download.lineageos.org/devices/dipper"
     },
     {
       "codename": "Mi8917",
